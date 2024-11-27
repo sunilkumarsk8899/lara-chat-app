@@ -1,11 +1,11 @@
 install chat app with laravel
-laravel livewire chat app
-composer create-project laravel/laravel chat-app
-composer require laravel/breeze --dev
-php artisan breeze:install
-npm install && npm run dev
-php artisan migrate
-php artisan install:broadcasting
+(1) laravel livewire chat app
+(2) composer create-project laravel/laravel chat-app
+(3) composer require laravel/breeze --dev
+(4) php artisan breeze:install
+(5) npm install && npm run dev
+(6) php artisan migrate
+(7) php artisan install:broadcasting
 
 
 
